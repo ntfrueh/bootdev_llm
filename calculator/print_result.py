@@ -1,0 +1,1 @@
+print('The result is:', 42)
